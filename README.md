@@ -1,10 +1,10 @@
 👋 Hi, I'm @OVERHEAT77
-.. I'm interested in Data analysis and turning data into meaningful insight.
-< I'M currently learning data analytic at Tuggedah with the goal of becoming a data professional 
-* open to collaborating on data related programs 
-fun fath.7
-Here are some ideas to get you started:
-
+🌡️ I'm interested in learning Data analysis and turning data into meaningful insight.
+💌 I'M currently learning data analytic at Tuggedah with the goal of becoming a data professional 
+💥 I'm open to collaborating on data related programs 
+☃️fun fact: opened to learning new skills 
+⚡Reach out to me on linkedinhttps://www.linkedin.com/in/favour-emenike-112169341?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app . 
+💌 WhatsApp:09038347604
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
