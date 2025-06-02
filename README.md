@@ -1,8 +1,8 @@
-## Hi there 👋
-
-<!--
-**OVERHEAT77/Overheat77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+👋 Hi, I'm @OVERHEAT77
+.. I'm interested in Data analysis and turning data into meaningful insight.
+< I'M currently learning data analytic at Tuggedah with the goal of becoming a data professional 
+* open to collaborating on data related programs 
+fun fath.7
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
